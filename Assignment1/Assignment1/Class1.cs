@@ -9,10 +9,20 @@ namespace Assignment1
         static void Main()
         {
             Console.WriteLine("Enter the age");
-            String age = Console.ReadLine();
-            int num = int.Parse(age);
-            Console.WriteLine(num);
-            Console.ReadLine();
+            String result = Console.ReadLine();
+            int age;
+            bool num = int.TryParse(result,out age);
+            if (num)
+            {
+                Console.WriteLine(age);
+            }
+            else
+            {
+                Console.WriteLine("Invalid value");
+            }
+       
+        Console.ReadLine();
+
         }
     }
 }

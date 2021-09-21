@@ -1,0 +1,14 @@
+E:\github_jk\self\asignment1\Assignment1\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.exe
+E:\github_jk\self\asignment1\Assignment1\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.deps.json
+E:\github_jk\self\asignment1\Assignment1\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.json
+E:\github_jk\self\asignment1\Assignment1\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.dev.json
+E:\github_jk\self\asignment1\Assignment1\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.dll
+E:\github_jk\self\asignment1\Assignment1\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.pdb
+E:\github_jk\self\asignment1\Assignment1\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.AssemblyReference.cache
+E:\github_jk\self\asignment1\Assignment1\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_jk\self\asignment1\Assignment1\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfoInputs.cache
+E:\github_jk\self\asignment1\Assignment1\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfo.cs
+E:\github_jk\self\asignment1\Assignment1\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csproj.CoreCompileInputs.cache
+E:\github_jk\self\asignment1\Assignment1\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.dll
+E:\github_jk\self\asignment1\Assignment1\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.pdb
+E:\github_jk\self\asignment1\Assignment1\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.genruntimeconfig.cache
